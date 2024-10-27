@@ -19,7 +19,3 @@ $ `python manage.py createsuperuser`
 - Step 6 : 
 $ `python manage.py runserver`
 
-
-- To Back to see all parts of project : 
-https://github.com/BenHmidaMohammadAli/fake-reservation-check/
-
